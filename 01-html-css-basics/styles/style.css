@@ -21,3 +21,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.gruene-schrift {
+    color: rgb(0, 118, 30);
+}
+.unterstrichen {
+    text-decoration: underline;
+}
